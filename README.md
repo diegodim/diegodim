@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diegodim
-- 👀 I’m interested in Android Develope
-- 🌱 I’m currently learning Lotlin, React and Flutter
+- 👀 I’m interested in Android Developer
+- 🌱 I’m currently learning Kotlin, React and Flutter
 - 💞️ I’m looking to collaborate on Android Projects
 
 <!---
